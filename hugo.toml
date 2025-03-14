@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-CN'
+title = 'AlphaBot: 你的智能投资助理'
+theme = 'hello-friend-ng'
+
+[params]
+title = "技术博客"
+description = "AI与量化交易研究"
+colorScheme = "auto"  # 可选 light/dark/auto
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/x-pai/ai-stock-assistant"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/BenalexCheung"
+
+[params.financial]
+dataRefresh = 300  # 数据刷新间隔（秒）
+riskNotice = "本分析仅供参考，不构成投资建议"
+
