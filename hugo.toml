@@ -1,4 +1,4 @@
-baseURL = 'https://x-pai.com/'
+baseURL = 'https://alphabot.x-pai.com/'
 languageCode = 'zh-CN'
 title = 'AlphaBot'
 theme = 'hello-friend-ng'
@@ -57,5 +57,5 @@ copyright = "© 2025 AlphaBot"
   [[menu.main]]
     identifier = "4"
     name = "在线演示"
-    url = "http://alphabot.x-pai.com"
+    url = "http://demo.alphabot.x-pai.com"
     target = "_blank" 
