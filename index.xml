@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AlphaBot</title><link>https://x-pai.com/</link><description>Recent content on AlphaBot</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2025 AlphaBot</copyright><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://x-pai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>AlphaBot - 你的智能股票分析助手</title><link>https://x-pai.com/about/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://x-pai.com/about/</guid><description>&lt;blockquote>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AlphaBot</title><link>https://alphabot.x-pai.com/</link><description>Recent content on AlphaBot</description><generator>Hugo</generator><language>zh-CN</language><copyright>© 2025 AlphaBot</copyright><lastBuildDate>Sat, 15 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alphabot.x-pai.com/index.xml" rel="self" type="application/rss+xml"/><item><title>AlphaBot - 你的智能股票分析助手</title><link>https://alphabot.x-pai.com/about/</link><pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate><guid>https://alphabot.x-pai.com/about/</guid><description>&lt;blockquote>
 &lt;p>&amp;ldquo;在股市中，赚钱的不是最聪明的人，而是最有纪律的人。&amp;rdquo; —— 沃伦·巴菲特（可能没说过，但听起来很有道理）&lt;/p>&lt;/blockquote>
 &lt;h2 id="-当ai遇上股市一场理性与数据的较量">🎭 当AI遇上股市：一场理性与数据的较量&lt;/h2>
 &lt;p>欢迎来到AlphaBot的世界，这里不仅有冷冰冰的数据分析，还有暖心的交易建议。我们知道，你使用这个应用的原因可能是：&lt;/p>
@@ -12,12 +12,12 @@
 &lt;h2 id="-在线演示">🖥️ 在线演示&lt;/h2>
 &lt;p>&lt;strong>📊 行情主页&lt;/strong>
 
- &lt;img src="https://x-pai.com/images/market.png" alt="行情" class="center" />
+ &lt;img src="https://alphabot.x-pai.com/images/market.png" alt="行情" class="center" />
 
 &lt;/p>
 &lt;p>&lt;strong>🧐 AI分析&lt;/strong>
 
- &lt;img src="https://x-pai.com/images/analysis.png" alt="AI分析" class="center" />
+ &lt;img src="https://alphabot.x-pai.com/images/analysis.png" alt="AI分析" class="center" />
 
 &lt;/p>
 &lt;h2 id="-免责声明认真脸">🛡️ 免责声明（认真脸）&lt;/h2>
@@ -98,10 +98,10 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>npm install
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>npm start
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="-交易者誓言">📝 交易者誓言&lt;/h2>
-&lt;p>使用AlphaBot，请默念以下誓言：&lt;/p></description></item><item><title>市场日报</title><link>https://x-pai.com/market-reports/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://x-pai.com/market-reports/</guid><description>&lt;p>交易复盘是提升投资能力的重要方法。在这里，我们提供专业的市场复盘和个人交易复盘指南，帮助您从每次交易中学习和成长。&lt;/p>
+&lt;p>使用AlphaBot，请默念以下誓言：&lt;/p></description></item><item><title>市场日报</title><link>https://alphabot.x-pai.com/market-reports/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://alphabot.x-pai.com/market-reports/</guid><description>&lt;p>交易复盘是提升投资能力的重要方法。在这里，我们提供专业的市场复盘和个人交易复盘指南，帮助您从每次交易中学习和成长。&lt;/p>
 &lt;h2 id="最新日报">最新日报&lt;/h2>
 &lt;h3 id="2025-03-13-市场日报特朗普关税威胁加剧市场动荡">[2025-03-13] 市场日报：特朗普关税威胁加剧市场动荡&lt;/h3>
-&lt;p>&lt;img src="https://x-pai.com/images/review/market-20250313.jpg" alt="市场概览">&lt;/p>
+&lt;p>&lt;img src="https://alphabot.x-pai.com/images/review/market-20250313.jpg" alt="市场概览">&lt;/p>
 &lt;h4 id="市场概述">市场概述&lt;/h4>
 &lt;p>今日全球市场普遍承压，美股三大指数显著下跌，纳斯达克指数下跌3.2%，标普500指数进入修正区域，下跌2.5%，道琼斯工业平均指数下跌500点，跌幅达2.1%。亚太市场同样表现疲软，恒生指数下跌2.8%，日经225指数下跌2.0%，上证指数下跌1.5%。&lt;/p>
 &lt;h4 id="关键事件">关键事件&lt;/h4>
@@ -117,22 +117,22 @@
 &lt;li>&lt;strong>板块表现&lt;/strong>：科技股普遍下跌，Nvidia和Tesla领跌；金融股因避险情绪有所支撑，能源股受全球需求担忧拖累&lt;/li>
 &lt;li>&lt;strong>技术面分析&lt;/strong>：主要指数跌破关键支撑位，RSI指标显示超卖迹象，短期内或有技术性反弹可能&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://x-pai.com/review/market-20250313">查看完整市场复盘&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://alphabot.x-pai.com/review/market-20250313">查看完整市场复盘&lt;/a>&lt;/p>
 &lt;hr>
-&lt;p>&lt;a href="https://x-pai.com/files/trading-review-template.md">下载复盘模板&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://alphabot.x-pai.com/files/trading-review-template.md">下载复盘模板&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h3 id="优秀复盘案例">优秀复盘案例&lt;/h3>
 &lt;p>我们定期从社区中选取优秀的交易复盘案例进行分享，帮助大家相互学习和进步。&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://x-pai.com/review/community/maotai-case">小明的茅台波段操作复盘&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://x-pai.com/review/community/tesla-case">老王的特斯拉长线持有策略&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://x-pai.com/review/community/index-investment-case">阿丽的指数定投复盘&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alphabot.x-pai.com/review/community/maotai-case">小明的茅台波段操作复盘&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alphabot.x-pai.com/review/community/tesla-case">老王的特斯拉长线持有策略&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alphabot.x-pai.com/review/community/index-investment-case">阿丽的指数定投复盘&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;hr>
-&lt;p>&lt;em>免责声明：本专题内容仅供学习参考，不构成投资建议。投资有风险，入市需谨慎。&lt;/em>&lt;/p></description></item><item><title>每日一股</title><link>https://x-pai.com/daily-stock/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://x-pai.com/daily-stock/</guid><description>&lt;p>AlphaBot 每天为您精选一只值得关注的股票，提供深度分析和投资建议。&lt;/p>
+&lt;p>&lt;em>免责声明：本专题内容仅供学习参考，不构成投资建议。投资有风险，入市需谨慎。&lt;/em>&lt;/p></description></item><item><title>每日一股</title><link>https://alphabot.x-pai.com/daily-stock/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://alphabot.x-pai.com/daily-stock/</guid><description>&lt;p>AlphaBot 每天为您精选一只值得关注的股票，提供深度分析和投资建议。&lt;/p>
 &lt;h2 id="最新个股分析">最新个股分析&lt;/h2>
 &lt;h3 id="2025-03-14-特斯拉-tslaus">[2025-03-14] 特斯拉 (TSLA.US)&lt;/h3>
-&lt;p>&lt;img src="https://x-pai.com/images/stocks/tesla.png" alt="特斯拉">&lt;/p>
+&lt;p>&lt;img src="https://alphabot.x-pai.com/images/stocks/tesla.png" alt="特斯拉">&lt;/p>
 &lt;h4 id="公司概况">公司概况&lt;/h4>
 &lt;p>特斯拉是全球领先的电动汽车和清洁能源公司，专注于电动汽车、电池储能产品和太阳能产品的设计、开发、制造和销售。公司由埃隆·马斯克领导，以其创新技术和颠覆传统汽车行业的商业模式而闻名。&lt;/p>
 &lt;h4 id="ai分析摘要">AI分析摘要&lt;/h4>
@@ -142,10 +142,10 @@
 &lt;li>&lt;strong>风险评估&lt;/strong>：竞争加剧，价格战可能影响利润率，马斯克注意力分散可能影响公司运营。&lt;/li>
 &lt;li>&lt;strong>投资建议&lt;/strong>：短期可适量参与，注意设置止盈止损，关注下一季度交付数据。&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://x-pai.com/daily-stock/tesla-20250314">查看完整分析&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://alphabot.x-pai.com/daily-stock/tesla-20250314">查看完整分析&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h3 id="2025-03-13-阿里巴巴-babaus09988hk">[2025-03-13] 阿里巴巴 (BABA.US/09988.HK)&lt;/h3>
-&lt;p>&lt;img src="https://x-pai.com/images/stocks/alibaba.jpg" alt="阿里巴巴">&lt;/p>
+&lt;p>&lt;img src="https://alphabot.x-pai.com/images/stocks/alibaba.jpg" alt="阿里巴巴">&lt;/p>
 &lt;h4 id="公司概况-1">公司概况&lt;/h4>
 &lt;p>阿里巴巴集团是中国最大的电子商务公司之一，业务包括淘宝、天猫、阿里云、菜鸟物流等。公司在电子商务、云计算、数字媒体和娱乐以及创新业务等领域均有布局。&lt;/p>
 &lt;h4 id="ai分析摘要-1">AI分析摘要&lt;/h4>
@@ -155,17 +155,17 @@
 &lt;li>&lt;strong>风险评估&lt;/strong>：国内消费复苏不及预期，云业务竞争加剧，监管环境仍存不确定性。&lt;/li>
 &lt;li>&lt;strong>投资建议&lt;/strong>：可分批建仓，长期持有，关注未来财报中云业务表现。&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://x-pai.com/daily-stock/alibaba-20250313">查看完整分析&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://alphabot.x-pai.com/daily-stock/alibaba-20250313">查看完整分析&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="历史推荐">历史推荐&lt;/h2>
 &lt;ul>
-&lt;li>[2023-03-12] &lt;a href="https://x-pai.com/daily-stock/meituan-20230312">美团 (03690.HK)&lt;/a>&lt;/li>
-&lt;li>[2023-03-11] &lt;a href="https://x-pai.com/daily-stock/nvidia-20230311">英伟达 (NVDA.US)&lt;/a>&lt;/li>
-&lt;li>[2023-03-10] &lt;a href="https://x-pai.com/daily-stock/byd-20230310">比亚迪 (01211.HK/002594.SZ)&lt;/a>&lt;/li>
-&lt;li>[2023-03-09] &lt;a href="https://x-pai.com/daily-stock/apple-20230309">苹果 (AAPL.US)&lt;/a>&lt;/li>
-&lt;li>[2023-03-08] &lt;a href="https://x-pai.com/daily-stock/maotai-20230308">茅台 (600519.SH)&lt;/a>&lt;/li>
+&lt;li>[2023-03-12] &lt;a href="https://alphabot.x-pai.com/daily-stock/meituan-20230312">美团 (03690.HK)&lt;/a>&lt;/li>
+&lt;li>[2023-03-11] &lt;a href="https://alphabot.x-pai.com/daily-stock/nvidia-20230311">英伟达 (NVDA.US)&lt;/a>&lt;/li>
+&lt;li>[2023-03-10] &lt;a href="https://alphabot.x-pai.com/daily-stock/byd-20230310">比亚迪 (01211.HK/002594.SZ)&lt;/a>&lt;/li>
+&lt;li>[2023-03-09] &lt;a href="https://alphabot.x-pai.com/daily-stock/apple-20230309">苹果 (AAPL.US)&lt;/a>&lt;/li>
+&lt;li>[2023-03-08] &lt;a href="https://alphabot.x-pai.com/daily-stock/maotai-20230308">茅台 (600519.SH)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://x-pai.com/daily-stock/archive">查看更多历史推荐&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://alphabot.x-pai.com/daily-stock/archive">查看更多历史推荐&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="订阅每日一股">订阅每日一股&lt;/h2>
 &lt;p>想要第一时间收到每日一股的推荐和分析？欢迎通过以下方式订阅：&lt;/p>
@@ -173,7 +173,7 @@
 &lt;li>&lt;strong>Telegram频道&lt;/strong>：&lt;a href="https://t.me/+xpeJztm_DmZiMTlh">t.me/alphabot_daily&lt;/a>&lt;/li>
 &lt;li>&lt;strong>微信公众号&lt;/strong>：搜索&amp;quot;AlphaBot&amp;quot;
 
- &lt;img src="https://x-pai.com/images/mp_weixin_qr_white.png" alt="AlphaBot公众号" class="left" style="zoom:20%; border-radius: 80px;" />
+ &lt;img src="https://alphabot.x-pai.com/images/mp_weixin_qr_white.png" alt="AlphaBot公众号" class="left" style="zoom:20%; border-radius: 80px;" />
 
 &lt;/li>
 &lt;/ul>
