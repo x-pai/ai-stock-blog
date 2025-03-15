@@ -16,7 +16,7 @@ jobs:
         submodules: true  # 确保子模块被检出
 
     - name: Set up Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
         hugo-version: 'latest'
 
