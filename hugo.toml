@@ -1,22 +1,61 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://x-pai.com/'
 languageCode = 'zh-CN'
-title = 'AlphaBot: 你的智能投资助理'
+title = 'AlphaBot'
 theme = 'hello-friend-ng'
+copyright = "© 2025 AlphaBot"
 
 [params]
-title = "技术博客"
-description = "AI与量化交易研究"
-colorScheme = "auto"  # 可选 light/dark/auto
+  #author = 'AlphaBot'
+  description = 'AlphaBot'
+  keywords = 'AlphaBot, 智能投资, 投资助理, 投资建议, 投资策略'
+  
+  # Subtitle for home
+  homeSubtitle = "专业帮您把复杂的投资决策变成简单的错误决定"
 
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/x-pai/ai-stock-assistant"
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
 
-[[params.socialIcons]]
-name = "twitter"
-url = "https://x.com/BenalexCheung"
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
 
-[params.financial]
-dataRefresh = 300  # 数据刷新间隔（秒）
-riskNotice = "本分析仅供参考，不构成投资建议"
+  [params.Logo]
+    logoText = "cd /home"
 
+  # 添加页脚信息
+  [params.footer]
+    copyright = true
+    topText = ["<a href='https://beian.miit.gov.cn/' target='_blank'>粤ICP备XXXXXXXX号</a>", "<a href='https://creativecommons.org/licenses/by-nc/4.0/' target='_blank'>CC BY-NC 4.0</a>"]
+    bottomText = ["由 <a href='https://gohugo.io' target='_blank'>Hugo</a> 强力驱动", "主题 <a href='https://github.com/rhazdon/hugo-theme-hello-friend-ng' target='_blank'>Hello Friend NG</a>"]
+
+  # 添加社交媒体链接
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/x-pai/ai-stock-assistant"
+    nonewpage = 0
+    
+  [[params.social]]
+    name = "email"
+    url = "mailto:ben_zzz@163.com"
+
+# 添加菜单
+[menu]
+  [[menu.main]]
+    identifier = "1"
+    name = "项目介绍"
+    url = "/about"
+
+  [[menu.main]]
+    identifier = "2"
+    name = "市场日报"
+    url = "/market-reports"
+
+  [[menu.main]]
+    identifier = "3"
+    name = "每日一股"
+    url = "/daily-stock"
+
+  [[menu.main]]
+    identifier = "4"
+    name = "演示Demo"
+    url = "http://alphabot.x-pai.com"
+    target = "_blank" 
