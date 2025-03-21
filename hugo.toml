@@ -30,7 +30,7 @@ copyright = "© 2025 AlphaBot"
   # 添加社交媒体链接
   [[params.social]]
     name = "github"
-    url = "https://github.com/x-pai/ai-stock-assistant"
+    url = "https://github.com/x-pai/AlphaBot"
     nonewpage = 0
     
   [[params.social]]
@@ -57,5 +57,5 @@ copyright = "© 2025 AlphaBot"
   [[menu.main]]
     identifier = "4"
     name = "在线演示"
-    url = "http://demo.alphabot.x-pai.com"
+    url = "https://demo.alphabot.x-pai.com"
     target = "_blank" 
