@@ -26,6 +26,9 @@ draft: false
 **🧐 AI分析**
 {{< image src="/images/analysis.png" alt="AI分析" position="center" >}}
 
+**🤖 智能体**
+{{< image src="/images/agent.png" alt="智能体" position="center" >}}
+
 ## 🛡️ 免责声明（认真脸）
 
 **重要提示：使用本项目前，请确认您已经明白以下事实**
@@ -126,6 +129,9 @@ npm start
 
 公众号：
 {{< image src="/images/mp_weixin_qr.png" alt="AlphaBot公众号" position="center" style="zoom:33%; border-radius: 80px;">}}
+
+微信群：
+{{< image src="/images/wechat_group_qr.jpg" alt="AlphaBot微信群" position="center" style="zoom:33%; border-radius: 80px;">}}
 
 ## 💰 赞助本项目
 
