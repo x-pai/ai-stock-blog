@@ -127,11 +127,6 @@ npm start
 公众号：
 {{< image src="/images/mp_weixin_qr.png" alt="AlphaBot公众号" position="center" style="zoom:33%; border-radius: 80px;">}}
 
-微信群：
-{{< image src="/images/wechat_group_qr.jpg" alt="AlphaBot微信群" position="center" style="zoom:33%; border-radius: 80px;">}}
-
-QQ群：[点击链接加入群聊【AlphaBot交易者联盟】](https://qm.qq.com/q/ES8Fp8AdpY)
-
 ## 💰 赞助本项目
 
 如果AlphaBot帮你避免了一次冲动交易，或者帮你建立了更好的交易系统，请考虑赞助我们。你的支持将用于：
