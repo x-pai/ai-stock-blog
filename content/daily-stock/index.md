@@ -85,7 +85,6 @@ AlphaBot 每天为您精选一只值得关注的股票，提供深度分析和�
 
 想要第一时间收到每日一股的推荐和分析？欢迎通过以下方式订阅：
 
-- **Telegram频道**：[t.me/alphabot_daily](https://t.me/+xpeJztm_DmZiMTlh)
 - **微信公众号**：搜索"AlphaBot"
 {{< image src="/images/mp_weixin_qr_white.png" alt="AlphaBot公众号" position="left" style="zoom:20%; border-radius: 80px;">}}
 
