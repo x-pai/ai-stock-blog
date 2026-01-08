@@ -1,0 +1,29 @@
+{
+  "name": "alpha-bot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "你的智能股票分析助手",
+  "author": "Ben <ben_zzz@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:build": "vuepress build docs --clean-cache --clean-temp",
+    "docs:dev": "vuepress dev docs",
+    "docs:dev-clean": "vuepress dev docs --clean-cache --clean-temp",
+    "docs:preview": "http-server docs/.vuepress/dist",
+    "vp-update": "npx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "http-server": "^14.1.1",
+    "typescript": "^5.9.3",
+    "vue": "^3.5.26",
+    "vuepress": "2.0.0-rc.26",
+    "vuepress-theme-plume": "1.0.0-rc.184"
+  },
+  "engines": {
+    "node": "^20.19.0 || >=22.0.0"
+  },
+  "dependencies": {
+    "ogl": "^1.0.11"
+  }
+}
