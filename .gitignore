@@ -1,4 +1,5 @@
 .DS_Store
 node_modules
-docs/.vitepress/.cache
-docs/.vitepress/.temp
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist

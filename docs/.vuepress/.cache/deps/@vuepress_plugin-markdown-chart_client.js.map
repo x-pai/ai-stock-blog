@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../../../../node_modules/@vuepress/plugin-markdown-chart/src/client/helpers/echarts.ts", "../../../../node_modules/@vuepress/plugin-markdown-chart/src/client/helpers/mermaid.ts"],
-  "sourcesContent": ["import type { EChartsOption } from 'echarts'\n\nexport interface EChartsConfig {\n  /**\n   * ECharts global options\n   *\n   * ECharts 全局选项\n   */\n  option?: EChartsOption\n\n  /**\n   * ECharts setup function\n   *\n   * ECharts 初始化函数\n   */\n  setup?: () => Promise<void>\n\n  /**\n   * Whether ECharts has been set up\n   *\n   * ECharts 是否已初始化\n   */\n  isSetup?: boolean\n}\n\nlet echartsConfig: EChartsConfig = {}\n\nexport const defineEChartsConfig = (config: EChartsConfig): void => {\n  echartsConfig = config\n}\n\n/**\n * @internal\n */\nexport const useEChartsConfig = (): EChartsConfig => echartsConfig\n", "import type { MermaidOptions } from '../typings/index.js'\n\nlet mermaidOptions: MermaidOptions = {}\n\nexport const defineMermaidConfig = (options: MermaidOptions): void => {\n  mermaidOptions = options\n}\n\n/**\n * @internal\n */\nexport const useMermaidOptions = (): MermaidOptions => mermaidOptions\n"],
-  "mappings": ";AAyBA,IAAIA,IAA+B,CAAA;AAE5B,IAAMC,IAAuBC,OAAgC;AAClEF,MAAgBE;AAClB;AAFO,IAOMC,IAAmB,MAAqBH;;;AChCrD,IAAII,KAAiC,CAAA;AAE9B,IAAMC,KAAuBC,OAAkC;AACpEF,EAAAA,KAAiBE;AACnB;AAFO,IAOMC,KAAoB,MAAsBH;",
-  "names": ["echartsConfig", "defineEChartsConfig", "config", "useEChartsConfig", "mermaidOptions", "defineMermaidConfig", "options", "useMermaidOptions"]
-}
