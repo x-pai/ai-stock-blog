@@ -8,13 +8,13 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export default defineNavbarConfig([
   { text: '项目介绍', link: '/about' },
-  { text: '市场日报', link: '/market-reports' },
-  { text: '每日一股', link: '/daily-stock' },
+  { text: '市场日报', link: '/market-reports/' },
+  { text: '每日一股', link: '/daily-stock/' },
   // { text: '博客', link: '/blog/' },
   // { text: '标签', link: '/blog/tags/' },
   // { text: '归档', link: '/blog/archives/' },
   {
     text: '笔记',
-    items: [{ text: '示例', link: '/demo/README.md' }]
+    items: [{ text: 'ESE理论', link: '/ese-theory/README.md' }]
   },
 ])

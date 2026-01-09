@@ -1,7 +1,9 @@
 ---
-title: "每日一股"
-date: 2023-03-15
+title: 每日一股
+date: 2023-03-15T00:00:00.000Z
 draft: false
+createTime: 2026/01/01 12:18:51
+permalink: /daily-stock/c409jcqh/
 ---
 
 AlphaBot 每天为您精选一只值得关注的股票，提供深度分析和投资建议。
@@ -77,7 +79,7 @@ AlphaBot 每天为您精选一只值得关注的股票，提供深度分析和�
 - [2023-03-09] [苹果 (AAPL.US)](/daily-stock/apple-20230309)
 - [2023-03-08] [茅台 (600519.SH)](/daily-stock/maotai-20230308)
 
-[查看更多历史推荐](/daily-stock/archive)
+[查看更多历史推荐](./archives/)
 
 ---
 
@@ -86,6 +88,7 @@ AlphaBot 每天为您精选一只值得关注的股票，提供深度分析和�
 想要第一时间收到每日一股的推荐和分析？欢迎通过以下方式订阅：
 
 - **微信公众号**：搜索"AlphaBot"
+
 <img src="/images/mp_weixin_qr_white.png" alt="AlphaBot公众号" position="left" style="zoom:20%; border-radius: 80px;">
 
 ---
