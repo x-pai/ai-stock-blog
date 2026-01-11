@@ -1,5 +1,5 @@
 ---
-title: The Axioms
+title: 'Part1: 原点 · 三大基石公理'
 createTime: 2026/01/08 16:05:35
 permalink: /ese-theory/q8lkfx4f/
 ---

@@ -115,15 +115,17 @@ const eseTheory = defineCollection({
   // sidebar: ['', 'foo', 'bar'],
   sidebar: [
     'preface',
-    { text: 'Part1: 原点 · 三大基石公理', prefix: 'part1-the-axioms', items: 'auto' },
-    { text: 'Part2: 推演 · 核心博弈定理', prefix: 'part1-the-theorems', items: 'auto' },
-    { text: 'Part3: 观测 · 几何量化工具', prefix: 'part1-the-theorems', items: 'auto' },
-    { text: 'Part4: 主权 · AI 执行体系', prefix: 'part1-the-execution', items: 'auto' },
-    { text: 'Part5: 案例 · 商业航天与低轨宽带', prefix: 'part1-the-cases', items: 'auto' },
+    'introduction',
+    { text: 'Part1: 原点 · 三大基石公理', prefix: 'part1-the-axioms', items: 'auto', collapsed: true },
+    { text: 'Part2: 推演 · 核心博弈定理', prefix: 'part2-the-theorems', items: 'auto', collapsed: true },
+    { text: 'Part3: 观测 · 几何量化工具', prefix: 'part3-the-tools', items: 'auto', collapsed: true },
+    { text: 'Part4: 主权 · AI 执行体系', prefix: 'part4-the-execution', items: 'auto', collapsed: true },
+    { text: 'Part5: 案例 · 板块个股观测', prefix: 'part5-the-cases', items: 'auto', collapsed: true },
     'afterword'
   ],
   // 根据文件结构自动生成侧边栏
   // sidebar: 'auto',
+  sidebarCollapsed: true, 
 })
 
 /**
