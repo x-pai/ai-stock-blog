@@ -27,7 +27,7 @@ permalink: /ese-theory/ik8gfgcr/
 - 在充满噪声的价格序列中，哪些结构具有物理意义？  
 - 在 AI 主导的未来，人类交易者还剩下什么优势？  
 
-**Entropic-Sentient Equilibrium（ESE，熵感均衡论）** 就诞生在这样的背景下。  
+**Entropic-Sentient Equilibrium（ESE，熵衡理论）** 就诞生在这样的背景下。  
 
 它做的事情只有一件：**用三条不证自明的公理，推导出一套可量化、可编程、可执行的交易行为规范。**
 
