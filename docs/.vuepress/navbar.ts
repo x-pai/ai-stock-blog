@@ -15,6 +15,9 @@ export default defineNavbarConfig([
   // { text: '归档', link: '/blog/archives/' },
   {
     text: '笔记',
-    items: [{ text: 'ESE理论', link: '/ese-theory/README.md' }]
+    items: [
+      { text: '出手之前', link: '/before-action/' },
+      { text: 'ESE理论', link: '/ese-theory/' },
+    ]
   },
 ])

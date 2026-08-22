@@ -128,6 +128,89 @@ const eseTheory = defineCollection({
   sidebarCollapsed: true, 
 })
 
+const beforeAction = defineCollection({
+  type: 'doc',
+  dir: 'before-action',
+  linkPrefix: '/before-action',
+  title: '出手之前',
+  sidebar: [
+    '',
+    {
+      text: '1. 先看局面',
+      link: '/before-action/read-the-board/',
+      prefix: '01-read-the-board',
+      items: [
+        'can-this-market-be-traded',
+        'emotion-or-trend-first',
+        'mainline-rotation-and-noise',
+        'why-do-nothing-in-bad-markets',
+      ],
+      collapsed: true,
+    },
+    {
+      text: '2. 决定动作',
+      link: '/before-action/choose-the-action/',
+      prefix: '02-choose-the-action',
+      items: [
+        'buy-or-sell',
+        'adding-is-not-first-entry',
+        'reduce-is-not-exit-all',
+        'unclear-action-means-do-not-move',
+      ],
+      collapsed: true,
+    },
+    {
+      text: '3. 买入之前',
+      link: '/before-action/before-buying/',
+      prefix: '03-before-buying',
+      items: [
+        'what-opportunities-are-worth-buying',
+        'conditions-to-check-before-buying',
+        'chase-dip-right-side-contexts',
+        'wrong-entry-makes-everything-passive',
+      ],
+      collapsed: true,
+    },
+    {
+      text: '4. 卖出之前',
+      link: '/before-action/before-selling/',
+      prefix: '04-before-selling',
+      items: [
+        'when-to-stop-loss',
+        'when-to-take-profit',
+        'sell-because-weak-not-because-fear',
+        'buying-is-apprentice-selling-is-master',
+      ],
+      collapsed: true,
+    },
+    {
+      text: '5. 不出手的时候',
+      link: '/before-action/when-not-to-act/',
+      prefix: '05-when-not-to-act',
+      items: [
+        'do-not-trade-when-you-do-not-understand',
+        'do-not-trade-with-incomplete-conditions',
+        'do-not-trade-with-bad-risk-reward',
+        'do-not-trade-when-emotional',
+      ],
+      collapsed: true,
+    },
+    {
+      text: '6. 出手之后',
+      link: '/before-action/after-the-action/',
+      prefix: '06-after-the-action',
+      items: [
+        'what-to-watch-after-buying',
+        'how-to-judge-a-sell',
+        'what-to-do-when-you-are-wrong',
+        'what-records-to-leave-after-a-trade',
+      ],
+      collapsed: true,
+    },
+  ],
+  sidebarCollapsed: true,
+})
+
 /**
  * 导出所有的 collections
  * (blog 为博客示例，如果不需要博客功能，请删除)
@@ -138,5 +221,6 @@ export default defineCollections([
   demoDoc,
   marketReports,
   dailyStock,
+  beforeAction,
   eseTheory,
 ])
